@@ -1,0 +1,8 @@
+/Users/shanxiawoyan/Desktop/Expense-Tracker-Website/ExpenseTracker/obj/Debug/net8.0/ExpenseTracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shanxiawoyan/Desktop/Expense-Tracker-Website/ExpenseTracker/obj/Debug/net8.0/ExpenseTracker.AssemblyInfoInputs.cache
+/Users/shanxiawoyan/Desktop/Expense-Tracker-Website/ExpenseTracker/obj/Debug/net8.0/ExpenseTracker.AssemblyInfo.cs
+/Users/shanxiawoyan/Desktop/Expense-Tracker-Website/ExpenseTracker/obj/Debug/net8.0/ExpenseTracker.csproj.CoreCompileInputs.cache
+/Users/shanxiawoyan/Desktop/Expense-Tracker-Website/ExpenseTracker/obj/Debug/net8.0/ExpenseTracker.MvcApplicationPartsAssemblyInfo.cache
+/Users/shanxiawoyan/Desktop/Expense-Tracker-Website/ExpenseTracker/obj/Debug/net8.0/ExpenseTracker.RazorAssemblyInfo.cache
+/Users/shanxiawoyan/Desktop/Expense-Tracker-Website/ExpenseTracker/obj/Debug/net8.0/ExpenseTracker.RazorAssemblyInfo.cs
+/Users/shanxiawoyan/Desktop/Expense-Tracker-Website/ExpenseTracker/obj/Debug/net8.0/ExpenseTracker.sourcelink.json
